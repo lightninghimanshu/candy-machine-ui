@@ -1,0 +1,17 @@
+{
+  "program": {
+    "candyMachine": "",
+    "candyMachineCreator": "",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Certificate to student",
+      "image_hash": "384cf3dc52b9ce052047d345ad405f963161ca7e989946b3180779aa1acc2487",
+      "image_link": "https://arweave.net/e6E9QGqjD4hExHL4Trdw8OEk5rV8oZN2G0ycZ9V6v6E?ext=png",
+      "metadata_hash": "26233c63647c75fb85ccb38af2d861e8e3c300196556aca45e95959ff5a3d224",
+      "metadata_link": "https://arweave.net/yUyEeMlIHoBmqtsP_gQc1NjTWnUIGqNJ5TBKPSv7S9g",
+      "onChain": false
+    }
+  }
+}

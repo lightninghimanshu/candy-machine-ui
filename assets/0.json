@@ -1,0 +1,20 @@
+{
+    "name": "Certificate to student",
+    "symbol": "CRAB",
+    "description": "The Studious Crabs are smart and productive crabs.",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Institute",
+            "value": "Delhi, India"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
